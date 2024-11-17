@@ -11,3 +11,6 @@ ARRAY
 3.[CONTINOUS SUM QUERY](https://www.scaler.com/academy/mentee-dashboard/class/34465/assignment/problems/440/?navref=cl_pb_nv_tb)
 
 4.[ADD ONE TO A NUMBER](https://www.scaler.com/academy/mentee-dashboard/class/34465/homework/problems/66/?navref=cl_pb_nv_tb)
+
+5.[MAXIMUM NON-NEGATIVE SUB ARRAY](https://www.scaler.com/academy/mentee-dashboard/class/34465/homework/problems/266/?navref=cl_pb_nv_tb)
+
