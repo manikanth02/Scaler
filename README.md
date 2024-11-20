@@ -14,4 +14,6 @@ ARRAY
 
 5.[MAXIMUM NON-NEGATIVE SUB ARRAY](https://www.scaler.com/academy/mentee-dashboard/class/34465/homework/problems/266/?navref=cl_pb_nv_tb)
 
+8.[Find the Sum of sum of all SubArray](https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+
 
