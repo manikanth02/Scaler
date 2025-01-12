@@ -17,3 +17,9 @@ ARRAY
 8.[Find the Sum of sum of all SubArray](https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 
 
+
+
+
+
+
+
